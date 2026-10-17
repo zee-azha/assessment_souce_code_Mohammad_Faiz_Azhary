@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assessment_souce_code_faiz</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+    <string name="Search">Search Username</string>
+</resources>
