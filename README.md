@@ -50,14 +50,8 @@ GitHub REST API requests are rate-limited. Using an API Key (Personal Access Tok
 
 Anda memiliki **2 pilihan** untuk konfigurasi API Key:
 
-### Option 1: Menggunakan Token Bawaan di Gradle (Default)
-Project ini sudah dilengkapi dengan API Key default di dalam `app/build.gradle`:
-```groovy
-```
 
-Anda **tidak perlu mengubah apa pun** jika ingin langsung mencoba menjalankan aplikasi.
-
-### Option 2: Menggunakan API Key / Token Milik Sendiri
+### Option 1: Menggunakan API Key / Token Milik Sendiri
 
 Jika Anda ingin memakai GitHub Personal Access Token milik Anda sendiri:
 
